@@ -12,3 +12,7 @@ berfungsi untuk membimbing untuk selalu menuliskan kode JavaScript dengan gaya y
 -> npm install nanoid@3.x.x
 
 berfungsi untuk menangani id agar unik
+
+4. `git add .` digunakan untuk memasukkan semua berkas ke stash, terkecuali berkas node_modules.
+
+`git commit -m “initial commit”` digunakan untuk menyimpan perubahan pada local repository. Setiap perubahan pada sistem git dapat ditelusuri berdasarkan commit history.
